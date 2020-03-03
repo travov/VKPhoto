@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">VK Photo</string>
+    <integer name="com_vk_sdk_AppId">7316374</integer>
+    <string name="login_failure">Login failure has happened</string>
+    <string name="columns">Number of columns</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="one_col">1 column</string>
+    <string name="two_col">2 columns</string>
+    <string name="three_col">3 columns</string>
+    <string name="four_col">4 columns</string>
+    <string name="all_photos">All photos %d</string>
+    <string name="album_size">%d photo</string>
+    <string name="transition_name">name%1$d</string>
+    <string name="get_photo_error">Cannot get photo with given url</string>
+    <string name="all_photos_spinner">All photos</string>
+    <string name="fave_photos">Favorite photos</string>
+    <string name="friends">Friends</string>
+    <string name="albums">Albums</string>
+    <string name="error_get_albums">Cannot get albums</string>
+    <string name="error_create_album">Cannot create album</string>
+    <string name="error_friends">Cannot get friends</string>
+    <string name="error_photos">Cannot get photos</string>
+    <string name="error_fave_photos">Cannot get fave photos</string>
+    <string name="error_save_photos">Cannot save photos</string>
+    <string name="error_get_server">Cannot get upload server</string>
+    <string name="error_post_images">Cannot post images</string>
+    <string name="error_remove_albums">Cannot remove albums</string>
+    <string name="error_edit_album">Cannot edit album</string>
+    <string name="error_delete">Cannot delete photo</string>
+    <string name="uploading">Uploading images</string>
+    <string name="add_album">Add album</string>
+    <string name="add_photo">Add photo</string>
+    <string name="more_settings">More settings</string>
+    <string name="edit_album">Edit album</string>
+    <string name="remove_album">Remove album</string>
+    <string name="album_title">Title of album</string>
+    <string name="album_description">Description of album</string>
+    <string name="album_can_be_seen">This album can be seen…</string>
+    <string name="album_can_be_commented">This album can be commented…</string>
+    <string name="select_action">Select action</string>
+    <string name="photo_not_added_yet">This album is empty. You haven\'t added anything yet</string>
+    <string name="sure_delete_album">Are you sure you want to delete this album?</string>
+    <string name="url_no_album">https://vk.com/images/m_noalbum.png</string>
+    <string-array name="add_album_spinner">
+        <item>by all</item>
+        <item>only by friends</item>
+        <item>by friends and their friends</item>
+        <item>only by me</item>
+    </string-array>
+
+</resources>
